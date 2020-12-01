@@ -1,0 +1,124 @@
+#headerFieldSet{
+    margin-top: 0;
+    position: absolute;
+}
+
+header #emailabel{
+    font-size: 20px;
+    color: white;
+    float: right;
+}
+
+header #userType{
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-top: -1%;
+    margin-left: 79%;
+    margin-right: 9.56%;
+}
+
+#imagen{
+    height: 60px;
+}
+
+#registro{
+    margin-top: 50px;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+#registro #lNombre{
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: 38%;
+    font-size: 130%;
+}
+
+#Nombre{
+    margin-left: 11%;
+    width: 75%;
+}
+
+#registro #lApaterno{
+    margin-bottom: 0;
+    margin-left: 30%;
+    font-size: 130%;
+}
+
+#ApellidoPaterno{
+    margin-left: 11%;
+    width: 75%;
+}
+
+#registro #lAmaterno{
+    margin-bottom: 0;
+    margin-left: 30%;
+    font-size: 130%;
+}
+
+#ApellidoMaterno{
+    margin-left: 11%;
+    width: 75%;
+}
+
+#registro #lEmail{
+    margin-bottom: 0;
+    margin-left: 41%;
+    font-size: 130%;
+}
+
+#email{
+    margin-left: 11%;
+    width: 75%;
+}
+
+#registro #lFecha{
+    margin-bottom: 0;
+    margin-left: 40%;
+    font-size: 130%;
+}
+
+#fecha{
+    margin-left: 11%;
+    width: 75%;
+}
+
+#registro #lTypeUser{
+    margin-bottom: 0;
+    margin-left: 34%;
+    font-size: 130%;
+}
+
+#usuario{
+    margin-left: 11%;
+    width: 75%;
+}
+
+#registro #lPassword{
+    margin-bottom: 0;
+    margin-left: 37%;
+    font-size: 130%;
+}
+
+#password{
+    margin-left: 11%;
+    width: 75%;
+}
+
+#BtnSingUp{
+    margin-bottom: 0;
+    margin-left: 27%;
+    margin-bottom: 10px;
+}
+
+#BtnLogOut{
+    margin-bottom: 0;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+
+@font-face {
+    font-family: 'TTSupermolot';
+    src: local('TT_Supermolot_Regular.ttf');
+  }

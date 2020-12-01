@@ -1,0 +1,24 @@
+header #emailabel{
+    font-size: 20px;
+    color: white;
+    float: right;
+}
+
+header #userType{
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-top: -1%;
+    margin-left: 79%;
+    margin-right: 9.56%;
+}
+
+#imagen{
+    height: 70px;
+}
+
+#headerAsesor{
+    font-size: 30px; 
+    background-color: rgb(219, 25, 25);
+    padding: 10px;
+}

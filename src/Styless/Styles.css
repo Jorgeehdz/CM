@@ -1,0 +1,170 @@
+table tr:nth-child(odd) td{
+    background:#fff;
+}
+table tr:nth-child(even) td{
+     background:#ccc;
+}
+
+
+.bodyAsesor{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 150px;
+    font-family: 'TTSupermolot';
+    text-align: center;
+    border-radius: 5rem ;
+}
+
+#agregar{
+    float: right;
+    margin-right: 30px;
+    margin-top: 3px;
+}
+
+#iconbar{
+    background-color: grey;
+    width: 100%;
+    padding: 25px;
+}
+
+header #emailabel{
+    font-size: 20px;
+    color: white;
+    float: right;
+}
+
+header #userType{
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-top: -1%;
+    margin-left: 79%;
+    margin-right: 9.56%;
+}
+
+#status{
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+#headerFieldSet{
+    margin-top: 0;
+    position: absolute;
+}
+
+#horaFecha{
+    background-color: red;
+    font-family: 'TTSupermolot';
+    border-radius: 12px;
+    margin-left: 30px;
+}
+
+#modalFecha{
+    text-align: right;
+    color: white;
+    margin-left: 180px;
+    margin-right: 10px;
+}
+
+#modalHora{
+    color: white;
+    margin-left: 70px;
+}
+
+#asesorAsignado{
+    margin-left: 160px;
+    font-weight: bold;
+    font-family: 'TTSupermolot';
+    font-size: 90%;
+}
+
+#nombreAsesor{
+    margin-left: 60px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 90%;
+}
+
+#clienteAsignado{
+    margin-left: 160px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 90%;
+}
+
+#nombreCliente{
+    margin-left: 160px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 90%;
+}
+
+#unidadAsignada{
+    margin-left: 160px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 90%;
+}
+
+#nombreUnidad{
+    margin-left: 160px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 90%;
+}
+
+#sevicio{
+    margin-left: 40px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 120%;
+}
+
+#detalles{
+    margin-left: 110px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 120%;
+}
+
+#imagenesAdjuntas{
+    margin-left: 40px;
+    font-family: 'TTSupermolot';
+    font-weight: bold;
+    font-size: 120%;
+}
+
+#imagen{
+    height: 70px;
+}
+
+#registro{
+    margin-top: 80px;
+    background-color: rgb(252, 74, 74);
+    border-radius: 40px;
+    margin-left: 800px;
+    margin-right: 800px;
+}
+#headerAsesor{
+    font-size: 30px; 
+    background-color: rgb(219, 25, 25);
+    padding: 10px;
+}
+
+#h2table{
+    background-color: rgb(122, 122, 122);
+    margin-bottom: 0;
+}
+
+th{
+    font-size: 15px;
+}
+
+td{
+    font-size: 15px;
+}
+@font-face {
+    font-family: 'TTSupermolot';
+    src: local('TT_Supermolot_Regular.ttf');
+  }
